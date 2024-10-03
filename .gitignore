@@ -1,3 +1,4 @@
 
 *.jpg
 *.h5
+/CNN-model/.idea/
