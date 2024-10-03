@@ -7,7 +7,8 @@ There are two phases: <br />
 **Second phase**: Apply deep learning to predict MOS of image base on data has been processed on the first phase
 
 
-**Result**: Below is the best training result based on the dataset of 512 Omnidirectional images
+**Result**: Below is the best training result based on the dataset of 512 Omnidirectional images.
+
 The Pearson Correlation at **0.9757**, demonstrates the model predicted results correlate to the human manual evaluation (ground truth) at **97.57%**
 
 ![best_training.png](best_training.png)
