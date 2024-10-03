@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4591aa32-4817-4033-978d-129d071ba0b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Source-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assess_quality/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assess_quality/original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prepare_data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prepare_data/image_initialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/distorted/distorted.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/original/original.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/original/output.yuv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aFF5gI9BPw6ibFpzvTTa9hNQSB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resource/original" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resource/distorted" />
+      <recent name="$PROJECT_DIR$/resource/original" />
+      <recent name="$PROJECT_DIR$/assess_quality" />
+      <recent name="$PROJECT_DIR$/prepare_data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resource/original" />
+      <recent name="$PROJECT_DIR$/assess_quality" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="image_initialize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Source-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assess_quality" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_data/image_initialize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.image_initialize" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4591aa32-4817-4033-978d-129d071ba0b7" name="Default Changelist" comment="" />
+      <created>1586323253142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586323253142</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="209" key="GridCell.Tab.0.bottom" timestamp="1586502140821">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="209" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1586502140821" />
+    <state width="1419" height="209" key="GridCell.Tab.0.center" timestamp="1586502140821">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="209" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1586502140821" />
+    <state width="1419" height="209" key="GridCell.Tab.0.left" timestamp="1586502140820">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="209" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1586502140820" />
+    <state width="1419" height="209" key="GridCell.Tab.0.right" timestamp="1586502140821">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1419" height="209" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1586502140821" />
+    <state x="385" y="159" width="670" height="676" key="search.everywhere.popup" timestamp="1586418030068">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="385" y="159" width="670" height="676" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1586418030068" />
+  </component>
+</project>
