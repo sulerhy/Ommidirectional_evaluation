@@ -8,14 +8,14 @@ There are two phases: <br />
 
 **Model Architect**: This network architecture consists of two main
 parts: convolutional layers and fully connected layers. For
-convolutional layers, the input matrix of size I×J×3 initially
-goes through the first convolutional layer with 11 3×3 filters
-and a stride of 1. After passing through the first convolutional
-layer 1 and average pooling of 2×2, the intermediate outputs
-are fed into a second convolutional layer with 7 3×3 filters
-with a stride of 1. The outputs after the second convolutional
+convolutional layers, the input matrix of size **I×J×3** initially
+goes through the first convolutional layer with **11** **3×3 filters**
+and a stride of **1**. After passing through the first convolutional
+layer **1** and average pooling of **2×2**, the intermediate outputs
+are fed into a second convolutional layer with **7 3×3 filters**
+with a stride of **1**. The outputs after the second convolutional
 layer then go through the second concatenated pooling layer
-of 2×2 kernel with a stride of 1 to generate a feature map of
+of **2×2** kernel with a stride of **1** to generate a feature map of
 the input image patches.
 ![img.png](img.png)
 
