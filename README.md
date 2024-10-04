@@ -17,7 +17,10 @@ with a stride of **1**. The outputs after the second convolutional
 layer then go through the second concatenated pooling layer
 of **2×2** kernel with a stride of **1** to generate a feature map of
 the input image patches.
-![img.png](img.png)
+![img_1.png](img_1.png)
+**Fig**. Architecture of the proposed **Omni-IQA model**. The input of the model includes a distorted image, reference image, and the position of foveation
+point. In the image splitting part, the distorted image is divided into **64x64 patches**. Every single patch contains 3 features: **PSNR**, **relative distance with the
+foveation point**. All of the information of all of the patches will be the input for the next part - ConvNet to predict the MOS of image.
 
 **Result**: Below is the best training result based on the dataset of 512 Omnidirectional images.
 
